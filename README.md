@@ -10,7 +10,7 @@ Java FX is a software framework for delivering UI desktop applications. It is th
 This demo project used as inspiration the [official Oracle documentation](https://docs.oracle.com/javafx/2/get_started/form.htm).
 
 ## Issue Tracking
-For the purpose of demonstrating a complete Agile Workflow, we created a Jira instance that you can find [here](https://loose.atlassian.net/projects/SM/issues). You will need to use the ID's of the User Stories created there in your commit messages.
+For the purpose of demonstrating a complete Agile Workflow, we created a Jira instance that you can find [here](student-manager-use-cases.png). You will need to use the ID's of the User Stories created there in your commit messages.
 
 ## _Happy Coding_
 Have a nice time implementing the project!
