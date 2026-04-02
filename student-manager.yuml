@@ -1,0 +1,21 @@
+[Student]-(View Courses and Activities)
+[Student]-(View Grades)
+
+[Teacher]-(View Enrolled Students)
+[Teacher]-(Add Student to Course)
+[Teacher]-(Add Grades)
+
+[Administrator]-(Create Account)
+[Administrator]-(Assign Subjects to Teachers)
+
+(View Courses and Activities)>(Login)
+(View Grades)>(Login)
+(View Enrolled Students)>(Login)
+(Add Student to Course)>(Login)
+(Add Grades)>(Login)
+
+(Login)<(Lock Account Temporarily)
+(View Enrolled Students)<(Filter Students)
+(Add Student to Course)<(Notify Duplicate Student)
+(Add Grades)>(View Exam Statistics)
+(Create Account)<(Notify Duplicate Account)
